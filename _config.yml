@@ -1,3 +1,7 @@
 author: Toni Aho
-title: [Taho Ohjelmistopalvelut]
-theme: jekyll-theme-architect
+title: Taho Ohjelmistopalvelut
+description: Tehokasta ohjelmistokonsultointia jo yli 10 vuoden kokemuksella.
+theme: jekyll-theme-cayman
+show_downloads: false
+github:
+  is_project_page: false
