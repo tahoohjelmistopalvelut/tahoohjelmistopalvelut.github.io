@@ -1,4 +1,3 @@
 ---
-layout: default
 ---
-# Uuden ajan paskatoimisto
+Kaipaako ohjelmistoprojektisi tehokkaita apukäsiä? Tulit oikeaan paikkaan!

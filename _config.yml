@@ -2,6 +2,8 @@ author: Toni Aho
 title: Taho Ohjelmistopalvelut
 description: Tehokasta ohjelmistokonsultointia jo yli 10 vuoden kokemuksella.
 theme: jekyll-theme-cayman
+lang: fi_FI
 show_downloads: false
+timezone: Europe/Helsinki
 github:
   is_project_page: false

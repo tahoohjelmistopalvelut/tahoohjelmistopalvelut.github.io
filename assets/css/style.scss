@@ -6,3 +6,93 @@
 .page-header {
   padding: 2rem 6rem;
 }
+
+nav {
+  ul {
+    list-style-type: none;
+    li {
+      display: inline;
+      padding-left: 10px;
+      padding-right: 10px;
+
+      border-right: 1px solid #bbb;
+      &:last-child {
+        border-right: none;
+      }
+
+    }
+  }
+  .active a {
+    cursor: default;
+    color: #819198;
+    font-weight: bold;
+  }
+}
+
+table, tr, td {
+  border: none !important;
+}
+
+.main-content table tr td {
+  padding: 0 0;
+}
+
+.header-table, .header-table tr, .header-table td {
+  width: 100%;
+
+}
+
+
+table.profile-table {
+  display: table;
+  tr {
+    td {
+      &:first-child {
+        width: 30%;
+      }
+      &:nth-child(2) {
+        width: 70%;
+      }
+    }
+  }
+
+}
+
+table.tech-table {
+  display: table;
+  tr {
+    td {
+      &:first-child {
+        width: 30%;
+      }
+
+      &:nth-child(2) {
+        width: 30%;
+      }
+
+      &:nth-child(3) {
+        width: 40%;
+      }
+    }
+  }
+
+}
+
+.profile-pic {
+  img {
+    width: 150px;
+    border-radius: 50%;
+
+  }
+}
+
+@media print {
+  @page { margin: 0; }
+  body { margin: 1.6cm; }
+
+  a, .page-header, footer {
+    display: none;
+  }
+}
+
+

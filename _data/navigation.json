@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Etusivu",
+    "link": "/"
+  },
+  {
+    "title": "CV",
+    "link": "/cv.html"
+  },
+  {
+    "title": "Ota yhteyttä",
+    "link": "/contact.html"
+  }
+]
